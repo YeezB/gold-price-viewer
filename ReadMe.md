@@ -2,8 +2,8 @@
 
 ## 项目简介
 Gold Price Viewer 是一个用于查看黄金价格的程序。
-它可以从指定的数据源获取黄金价格并以Windows状态栏托盘中展示。
-![WindowDisplay](Doc/windows_display.png)
+它可以从指定的数据源获取黄金价格并以Windows状态栏托盘中展示。<>br/
+![WindowDisplay](Doc/windows_display.png)<br/>
 该数据5秒刷新一次。
 右键点击状态栏图标，可以手动刷新数据。
 
